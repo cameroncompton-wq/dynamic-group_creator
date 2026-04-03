@@ -1,3 +1,6 @@
+<img width="1665" height="852" alt="image" src="https://github.com/user-attachments/assets/c9a839de-de02-43e1-b97a-c51a9e08521d" />
+
+
 # LogicMonitor Dynamic Group Generator UI
 
 A modern web application for creating and managing dynamic groups in LogicMonitor, featuring an intuitive 3D tree visualization and comprehensive group configuration tools.
