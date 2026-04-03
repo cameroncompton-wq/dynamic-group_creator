@@ -17,7 +17,7 @@ CREATE_GROUPS = False
 DEBUG = False
 DRY_RUN = False
 UPDATE_EXISTING_APPLIESTO = False
-LM_PORTAL = 'nttdataincusgainwell'
+LM_PORTAL = 'xxx'
 # Config: Top-level group under which all schema-based groups are created
 PARENT_GROUP = "Devices by Credentials"
 
@@ -26,10 +26,10 @@ PARENT_GROUP = "Devices by Credentials"
 # FOCUS_CUSTOMERS = {"CONNECTICUT"}
 FOCUS_CUSTOMERS = {"KANSAS","Kansas"}
 EXCLUDE_CUSTOMERS = {}
-#EXCLUDE_CUSTOMERS = {"KANSAS","ARKANSAS","PRINT CENTER","Print Center","Medical","OHIO MITS","NTT","CALIFORNIA-MEDICAL","NTT_RBA","NTT-Data","GMCF","Aca","California","CALIFORNIA","Dentical Medical","Dentical"}
+#EXCLUDE_CUSTOMERS = {"KANSAS","ARKANSAS"}
 #TARGET_SCHEMA = "=customer||system.aws.customer||auto.system.normalization.customerAND=department||auto.system.normalization.department||aws.departmentAND=device_type||auto.system.normalization.device_type"
 
-#NTT
+
 #customer/operating_system/environment/domain_name
 #TARGET_SCHEMA = "auto.site_id||site_id"
 #TARGET_SCHEMA = "customer||auto.system.normalization.customer"
